@@ -1,0 +1,16 @@
+cd thecmdchallenge
+pwd
+ls -a
+ls -R, --recursive
+clear
+cd [tab+]
+cat trophy.txt
+ls *.js
+cd the-most-funny && mkdir not-that-funny
+cp the-most-boring-text.txt lol.txt
+mv kids.jps ./images/hello
+rm -r small-name/
+find *joke.txt && cd funcode/... && cat {fileName}
+rm -r boringfolder/*
+vi kamehameha/dragon-ball-jokes.md
+:q!
