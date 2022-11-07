@@ -6,7 +6,7 @@ How many Super Saiyans does it take to change a light bulb? Just one, but it wil
 
 I don't find Dragon Ball Z jokes to be funny..... "Just Saiyan" 
 
-What do Saiyans wear to the beach? Trunks. 
+What do Saiyans wear to the ? Trunks. 
 
 What did Vegeta say when he got his tuition bill? "It's over 9000" 
 
@@ -24,6 +24,10 @@ What does an elite saiyan warrior need to fix a car? Nappa know how.
 
 I cut off a monkeys tail and now he's just a vegeta-ble. 
 
-Hey, Vegeta I heard you have a hole in your Trunks. -Cell 
+Vegeta I heard you have a hole in your Trunks. -Cell 
 
 source: http://www.jokes4us.com/peoplejokes/dragonballzjokes.html
+M-U
+
+M-U
+
